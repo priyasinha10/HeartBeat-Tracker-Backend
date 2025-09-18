@@ -58,6 +58,3 @@ Create Bulk Heart Rates → Tests bulk heart rate recording for multiple patient
 
 **Run all Test cases:
 python manage.py test
-
-Link for the Postman API Collection
-https://api.postman.com/collections/28965282-3a3a46e8-e93d-4b78-8770-cfb9028a15af?access_key=PMAT-01K5EMZ33102EMHHNNXXVZW8XW
